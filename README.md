@@ -4,7 +4,7 @@
 | Field | Details |
 | :--- | :--- |
 | **Name** | Pranjal Karan |
-| **Registration No.** | [Enter Your Reg No. Here] |
+| **Registration No.** | 23BHI10114 |
 | **Course Code** | PLA1006 |
 | **Institution** | VIT Bhopal University |
 | **Specialization** | B.Tech CSE (Health Informatics) |
